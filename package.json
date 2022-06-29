@@ -45,7 +45,8 @@
     "sha1": "^1.1.1",
     "slug": "^0.9.4",
     "universal-analytics": "^0.4.23",
-    "uuid": "^3.4.0"
+    "uuid": "^3.4.0",
+    "pug": "^3.0.0"
   },
   "devDependencies": {
     "front-matter": "^2.1.2",
