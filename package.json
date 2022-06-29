@@ -9,7 +9,7 @@
     "test-dev": "TEST_DEV=true jest --watch"
   },
   "engines": {
-    "node": "16.x"
+    "node": "12.x"
   },
   "repository": {
     "type": "git",
